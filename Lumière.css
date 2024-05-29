@@ -1,0 +1,87 @@
+body {{
+	background-color:#ffffff;
+}
+
+.Titre {
+	font-family: 'Bahnschrift SemiBold', sans-serif;
+	font-size: 30px;
+	position:relative;
+	top:-10px;
+}
+
+.Sous_Titre {
+    font-family: 'Bahnschrift', sans-serif;
+    font-size: 25px;
+    text-align: center; /* Pour centrer le texte horizontalement */
+    position: relative;
+    top: -50px;
+
+}
+
+.Introduction {
+	font-family: 'Bahnschrift', sans-serif;
+	color:#F89A13;
+	font-size: 30px;
+	position:relative;
+	top:-70px;
+}
+
+
+.Paragraphe1 {
+	font-family: 'Arial', sans-serif;
+	font-size: 21px;
+	position: relative;
+	top: -90px;
+	border: 5px solid #F89A13;
+	padding: 10px;
+	width: 800px;
+	margin: 0 auto;
+	border-radius: 10px;
+	
+	
+}
+
+.Personnes {
+	font-family: 'Bahnschrift', sans-serif;
+	color:#F89A13;
+	font-size: 30px;
+	position: relative;
+	top: -120px;
+}
+
+.Paragraphe2 {
+	font-family: 'Arial', sans-serif;
+	font-size: 21px;
+	position: relative;
+	top: -140px;
+	border: 5px solid #F89A13;
+	padding: 15px;
+	width: 800px;
+	margin: 0 auto;
+	border-radius: 10px;
+
+}
+
+.Projet {
+	font-family: 'Bahnschrift', sans-serif;
+	color:#F89A13;
+	font-size: 30px;
+	position: relative;
+	top: -140px;
+	
+}
+
+.ExplicationProjet {
+	font-family: 'Arial', sans-serif;
+	font-size: 21px;
+	position: relative;
+	top: -155px;
+	border: 5px solid #F89A13;
+	padding: 15px;
+	width: 900px;
+	margin: 0 auto;
+	border-radius: 10px;
+
+}
+
+}
